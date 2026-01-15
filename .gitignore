@@ -1,0 +1,8 @@
+# Ignore downloaded targets
+*.js
+*.map
+results/
+temp/
+
+# Ignore OS files
+.DS_Store
